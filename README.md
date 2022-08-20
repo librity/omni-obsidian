@@ -13,4 +13,4 @@
 ## Credits
 
 - [Omni](https://github.com/getomni) by [Rocketseat](https://github.com/Rocketseat)
-- [Based on Dracula's layout](https://github.com/dracula/dracula-theme)
+- [Based on Dracula's CSS layout](https://github.com/dracula/obsidian)
